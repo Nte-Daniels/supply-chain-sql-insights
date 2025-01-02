@@ -3,3 +3,6 @@ Comprehensive SQL analysis of supply chain data, featuring detailed queries, dat
 
 ## Project Overview
 This project leverages SQL to analyze operational and sales data for generating actionable business insights. The analysis is focused on exploring customer behaviors, operational trends, and inventory management performance to assist stakeholders in improving decision-making.
+
+### Data Sources
+
